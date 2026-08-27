@@ -52,4 +52,4 @@ Projeto desenvolvido em Python para automação e simulação de cálculos traba
 
 1. Clone este repositório:
    ```bash
-   git clone [)
+   git clone [https://github.com/thbieltraining/Calculadora-SENAI/blob/main/CALCULADORA_SENAI_ADME2026.ipynb)
