@@ -45,12 +45,23 @@ Projeto desenvolvido em Python para automação e simulação de cálculos traba
 
 ## 🚀 Como Executar
 
-### Pré-requisitos
-- Python 3.8 ou superior instalado (não requer instalação de bibliotecas externas, utiliza apenas a biblioteca padrão).
+Você pode rodar este projeto diretamente na nuvem pelo Google Colab ou clonando o repositório na sua máquina local.
 
-### Passos
+### Opção 1: Executar no Google Colab (Sem instalação)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eaNgiV_8z6LJMG_x95SbOYrQdiR_PoSw?usp=sharing)
+
+Clique no botão acima ou [acesse o notebook diretamente no Colab](https://colab.research.google.com/drive/1eaNgiV_8z6LJMG_x95SbOYrQdiR_PoSw?usp=sharing).
+
+---
+
+### Opção 2: Executar Localmente
+
+**Pré-requisitos:**
+- Python 3.8 ou superior instalado.
+
+**Passos:**
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/thbieltraining/Calculadora-SENAI/blob/main/CALCULADORA_SENAI_ADME2026.ipynb)
-   link https://colab.research.google.com/drive/1eaNgiV_8z6LJMG_x95SbOYrQdiR_PoSw?usp=sharing
+   git clone [https://github.com/thbieltraining/Calculadora-SENAI.git](https://github.com/thbieltraining/Calculadora-SENAI.git)
