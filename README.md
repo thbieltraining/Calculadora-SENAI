@@ -18,7 +18,9 @@ Projeto acadêmico desenvolvido em Python para simular cálculos de folha de pag
 
 Notebook para simular a folha de pagamento e gerar um demonstrativo com proventos e descontos.
 
-[![Abrir FOPAG no Colab 💼](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thbieltraining/Calculadora-SENAI/blob/main/CALCULADORA_SENAI_ADME2026.ipynb)
+[![Abrir FOPAG 💼] [Ver notebook no GitHub](https://github.com/thbieltraining/Calculadora-SENAI/blob/main/CALCULADORA_SENAI_ADME2026.ipynb)
+
+[![Abrir FOPAG no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thbieltraining/Calculadora-SENAI/blob/main/CALCULADORA_SENAI_ADME2026.ipynb)
 
 ### Funcionalidades
 
@@ -42,14 +44,12 @@ Notebook para simular a folha de pagamento e gerar um demonstrativo com provento
   - Vale-transporte limitado a 6% do salário-base.
 
 ### Executar a FOPAG no Google Colab
+### 🧾 Calculadora de Rescisão
 
+[![Abrir calculadora de rescisão no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thbieltraining/Calculadora-SENAI/blob/main/RECIS%C3%83O_CALC_SENAI_2026.ipynb)
+
+[Ver notebook no GitHub](https://github.com/thbieltraining/Calculadora-SENAI/blob/main/RECIS%C3%83O_CALC_SENAI_2026.ipynb)
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eaNgiV_8z6LJMG_x95SbOYrQdiR_PoSw?usp=sharing)
-
-## 🧾 Calculadora de Rescisão
-
-Notebook independente, com foco na simulação das verbas e dos descontos relacionados ao encerramento do contrato de trabalho.
-
-[![Abrir calculadora de rescisão no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thbieltraining/Calculadora-SENAI/blob/main/CALCULADORA_RESCISAO_SENAI_2026.ipynb)
 
 ### Funcionalidades
 
