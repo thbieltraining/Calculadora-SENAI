@@ -18,7 +18,7 @@ Projeto acadêmico desenvolvido em Python para simular cálculos de folha de pag
 
 Notebook para simular a folha de pagamento e gerar um demonstrativo com proventos e descontos.
 
-[📓 Abrir notebook FOPAG](<./notebooks/CALCULADORA_SENAI_ADME2026 (1).ipynb>)
+[![Abrir FOPAG no Colab 💼](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thbieltraining/Calculadora-SENAI/blob/main/CALCULADORA_SENAI_ADME2026.ipynb)
 
 ### Funcionalidades
 
@@ -49,7 +49,7 @@ Notebook para simular a folha de pagamento e gerar um demonstrativo com provento
 
 Notebook independente, com foco na simulação das verbas e dos descontos relacionados ao encerramento do contrato de trabalho.
 
-[📓 Abrir notebook de rescisão](./notebooks/RECISÃO_CALC_SENAI_2026.ipynb)
+[![Abrir calculadora de rescisão no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thbieltraining/Calculadora-SENAI/blob/main/CALCULADORA_RESCISAO_SENAI_2026.ipynb)
 
 ### Funcionalidades
 
